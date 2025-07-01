@@ -6,3 +6,7 @@ function inserirNome(){
 }
 
 inserirNome();
+
+
+const item = document.querySelector("#lista");
+item.textContent = linguagens[0];
