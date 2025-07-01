@@ -9,4 +9,4 @@ inserirNome();
 
 let linguagens = ["JavaScript", "Python", "C++"]
 const item = document.querySelector("#lista");
-item.textContent = linguagens[1];
+item.textContent = linguagens[2];
