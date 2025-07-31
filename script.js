@@ -19,11 +19,12 @@ lista.textContent = linguagens [1];
 
 
 let aluno1 = {
-   nome: "Ingrid",
-   idade: 44,
-   anoLetivo: "pós-graduação",
-   MateriasFavoritas: ["Física", "Matemática", Estatistica]
+  nome: "Gabriel",
+  idade: 13,
+  anoLetivo: "2ºsérie",
+  materiasFavoritas: ["Geografia","Programação","Arte"]
 }
+
 
 console.log(aluno1.nome);
 console.log(aluno1.idade);
