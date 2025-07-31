@@ -33,4 +33,5 @@ console.log(aluno1.materiasFavoritas[0]);
 
 const objeto = document.querySelector("#aluno");
 objeto.textContent = aluno1.nome;
+objeto.textContent = aluno1.idade;
 
