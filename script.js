@@ -22,8 +22,12 @@ let aluno1 = {
    nome: "Ingrid",
    idade: 44,
    anoLetivo: "pós-graduação",
-   MateriasFavoritas: ["Física", "Matemática"]
+   MateriasFavoritas: ["Física", "Matemática", Estatistica]
 }
 
+console.log(aluno1.nome);
+console.log(aluno1.idade);
+console.log(aluno1.materiasFavoritas);
+console.log(aluno1.materiasFavoritas[0]);
 
 
