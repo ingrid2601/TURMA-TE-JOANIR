@@ -16,3 +16,14 @@ console.log (linguagens [2])
 const lista = document.querySelector ("#lista");
 lista.textContent = linguagens [0];
 lista.textContent = linguagens [1];
+
+
+let aluno1 = {
+   nome: "Ingrid",
+   idade: 44,
+   anoLetivo: "pós-graduação",
+   MateriasFavoritas: ["Física", "Matemática"]
+}
+
+
+
